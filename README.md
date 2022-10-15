@@ -1,5 +1,5 @@
-# Flutter
-## 💼 Why Flutter?
+# Flutter Basic
+## 🛼 Why Flutter?
 - 크로스 플랫폼 앱(Cross Platform App): 하나의 프로그래밍 언어와 소스코드로 Android와 iOS를 모두 개발<br/>
 - 구글에서 출시한 오픈 소스 모바일 애플리케이션 프레임 워크
 - 높은 생산성과 React-native보다 뛰어난 성능
